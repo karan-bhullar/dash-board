@@ -1,0 +1,76 @@
+[
+    {
+        "title": "Domain",
+        "icon": "bi-gear-fill",
+        "childrens": [
+            {
+                "title": "Data",
+                "icon": "bi-house-fill",
+                "path": "/"
+            },
+            {
+                "title": "Security",
+                "icon": "bi-info-circle-fill",
+                "path": "/about"
+            },
+            {
+                "title": "Resilience",
+                "icon": "bi-phone-fill"
+              
+            }
+          
+        ]
+    },
+    {
+        "title": "Application",
+        "icon": "bi-info-circle-fill",
+        "childrens": [
+            {
+                "title": "App 1",
+                "path": "/login"
+            },
+            {
+                "title": "App 2",
+                "path": "/register"
+            },
+            {
+                "title": "App 3",
+                "path": "/forgot-password"
+            },
+            {
+                "title": "App 4",
+                "path": "/reset-password"
+            }
+        ]
+    },
+    {
+        "title": "Profile",
+        "icon": "bi-person-fill",
+        "childrens": [
+            {
+                "title": "Profile",
+                "path": "/profile"
+            },
+            {
+                "title": "Settings"
+           
+            },
+            {
+                "title": "Logout",
+                "path": "/logout"
+            }
+        ]
+    },
+  
+    {
+        "title": "Support",
+        "icon": "bi-question-circle-fill",
+        "path": "/support"
+    },
+    {
+        "title": "Report Bug",
+        "icon": "bi-bug",
+        "path": "/report-bug"
+    }
+ ]
+ 
